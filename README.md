@@ -12,6 +12,7 @@ Use bash script 'run.sh' to prepare environment and run the test:
 
 
 Some features of this solution:
+- Trial test user is: `yuliasavkinainberlin@gmail.com`
 - In order to not to invent bicycle again profitbricks python sdk is used for making API calls.
 - Inside folder 'ssh' there are two files ('id_rsa' and 'id_rsa.pub') with private and public ssh keys.
 Volumes for both Frontend and Backend will be initialised with that public key.
